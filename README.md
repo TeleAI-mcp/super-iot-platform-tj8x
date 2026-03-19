@@ -1,2 +1,3 @@
-# super-iot-platform-tj8x
+# Super Iot Platform Tj8X
+
 A repository to test GitHub automation for issue management.
